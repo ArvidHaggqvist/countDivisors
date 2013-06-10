@@ -27,5 +27,5 @@ function countDivisors(n) {
             divisibles.push(numbers[i]);
         }
     }
-    return divisibles.length + 1; // Plus one because count one aswell
+    return divisibles.length + 1;
 }
